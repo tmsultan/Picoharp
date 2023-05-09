@@ -18,4 +18,4 @@ The second function is ~100x faster than the first. I added a new
 feature, see parseOutData(output), which parses the data in a readable
 way and also performs some sanity checks along the way.
 3) ReadOutput_Hydraharp.m that is a similar script for Hydraharp devices 
-   written by my colleague, Ji Hyun Nam
+   written by my colleague, Dr. Ji Hyun Nam
